@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hi My name is Diego I am Italian and I am passionate about coding.
+I am doing a Bootcamp on Scrimba
 <!--
 **Diegoireland1975/Diegoireland1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
