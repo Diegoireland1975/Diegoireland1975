@@ -1,5 +1,8 @@
-Hi My name is Diego I am Italian and I am passionate about coding.
-I am doing a Bootcamp on Scrimba
+Hi, I'm Diego, an Italian with a deep passion for coding. My coding journey began about three years ago, when I embarked on a short college course at the Dublin Institute of Design. Building on that foundation, I dedicated a full year to furthering my skills at the same institution, earning a Higher Certificate in Media Production.
+
+Continuously eager to learn and grow, I've extended my education through online platforms like Treehouse and Udemy. Additionally, I find inspiration from talented developers such as Brad Traversy and Kevin Powell on YouTube. I firmly believe that learning from diverse resources enriches my understanding and capabilities.
+
+Currently, I'm enrolled in a Bootcamp on Scrimba, further honing my skills. My goal is to secure a position as a Front-End Developer, bringing my passion and skills to life. Beyond coding, I'm also a fan of pizza, ice cream, and exploring new places through travel. 
 <!--
 **Diegoireland1975/Diegoireland1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
